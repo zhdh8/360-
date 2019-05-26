@@ -1,0 +1,6 @@
+<krpano>
+    <preview url="%$srcPath%preview.jpg" />
+    <image>
+        <cube url="%$srcPath%pano_%s.jpg" />
+    </image>
+</krpano>
